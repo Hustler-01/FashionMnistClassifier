@@ -62,15 +62,14 @@ FashionMnistClassifier/
 ---
 
 ## 🌐 Deployment
-You can deploy this app for free on platforms such as:
-- [Render](https://render.com/)  
-- [Railway](https://railway.app/)  
-- [Vercel (via Flask adapter)](https://vercel.com/)  
+
+This app is deployed on **Render**.  
+
+🔗 **Live Demo:** [https://fashionmnistclassifier.onrender.com/](https://fashionmnistclassifier.onrender.com/)
 
 ---
 
-## 🖼️ Screenshots (example)
-> Replace with actual screenshots from your app once available.
+## 🖼️ Screenshots 
 
 | Upload Page | Prediction Result |
 |-------------|------------------|
