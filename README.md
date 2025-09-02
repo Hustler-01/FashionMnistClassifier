@@ -94,15 +94,7 @@ This app is deployed on **Render**.
 ### 2. Predict
 **`POST /predict`**  
 - Accepts an uploaded image file.  
-- Returns JSON with predicted class.  
-
-Example response:
-```json
-{
-  "prediction": "Sandal",
-  "confidence": 0.87
-}
-```
+- Returns JSON with predicted class and its numeric ID.
 
 ---
 
