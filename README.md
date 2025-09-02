@@ -10,7 +10,7 @@ The app allows users to **upload their own fashion images**, preview them, and g
 - Trained **SVM model** with ~88% accuracy on test data  
 - Upload custom images (`.jpg` / `.jpeg` / `.png`)  
 - **Image preview** before prediction  
-- Displays predicted class with confidence  
+- Displays predicted class with its numeric id 
 - Responsive and appealing **CSS interface**  
 
 ---
