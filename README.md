@@ -29,37 +29,7 @@ FashionMnistClassifier/
 
 ---
 
-## ⚡ How to Run Locally
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Hustler-01/FashionMnistClassifier.git
-   cd FashionMnistClassifier
-   ```
-
-2. **Create a virtual environment (recommended)**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Linux/Mac
-   venv\Scripts\activate      # On Windows
-   ```
-
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Flask app**
-   ```bash
-   python app.py
-   ```
-
-5. **Open in browser**
-   ```
-   http://127.0.0.1:5000/
-   ```
-
----
 
 ## 🌐 Deployment
 
